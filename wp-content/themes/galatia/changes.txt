@@ -1,0 +1,17 @@
+1.2.1
+- Fixed meta box appearance when Gutenberg editor is used
+
+1.2
+- Added WooCommerce 3.6.3 compatibility
+- Updated WPBakery Page Builder to 6.0.2
+- Updated Galatia Core to 1.0.2
+- Updated POT file
+- Improved import functionality
+- Improved ajax functionality
+
+1.1
+- Added WooCommerce 3.5.5 compatibility
+- Updated WPBakery Page Builder to 5.7
+- Updated Revolution Slider to 5.4.8.3
+- Updated Core to 1.0.1
+- Improved framework files
